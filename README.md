@@ -17,6 +17,8 @@ This notebook is designed for both learning and insightful reporting, combining 
 ## 📂 Files Included
 - `covid_tracker.ipynb` — Jupyter Notebook containing the full analysis and visualizations
 - `README.md` — Project overview and instructions
+- `owid-covid-data.zip` — Zipped data file containing COVID deaths and vaccinations, (kindly unzip and store in same directory as covid_tracker.ipynb)
+- `vaccinations.csv` — Data file containing and vaccinations
 
 ---
 
@@ -41,6 +43,7 @@ Download the vaccination dataset from Our World in Data:
 COVID-19 Vaccinations dataset (CSV)
 
 Place the file vaccinations.csv in the same directory as the notebook.
+Place the file owid-covid-data.zip in the same directory as the notebook, once unzipped.
 
 ## 🚀 How to Run
 Ensure you have Python 3.x installed with the libraries listed above.
