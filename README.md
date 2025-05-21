@@ -33,6 +33,7 @@ You can install these with:
 
 ```bash
 pip install pandas matplotlib seaborn plotly
+```
 
 ## 📥 Dataset
 Download the vaccination dataset from Our World in Data:
@@ -41,17 +42,16 @@ COVID-19 Vaccinations dataset (CSV)
 
 Place the file vaccinations.csv in the same directory as the notebook.
 
-🚀 How to Run
+## 🚀 How to Run
 Ensure you have Python 3.x installed with the libraries listed above.
 
 Download the vaccinations.csv dataset and place it alongside covid_tracker.ipynb.
 
 Open the notebook using Jupyter Notebook or JupyterLab:
 
-bash
-Copy
-Edit
+```bash
 jupyter notebook covid_tracker.ipynb
+```
 Run each cell sequentially to:
 
 Load and clean the data
@@ -62,7 +62,7 @@ Explore key trends and insights
 
 Customize and extend the notebook as desired!
 
-🔍 Project Insights
+## 🔍 Project Insights
 The analysis reveals the dynamics of COVID-19 cases and vaccination trends in Kenya, the USA, and India.
 
 Pie charts provide a clear picture of vaccination coverage percentages for each country.
@@ -71,7 +71,8 @@ The choropleth map offers an interactive global view of vaccination progress, hi
 
 The project demonstrates the power of combining data science tools and visualization libraries to tell compelling data-driven stories.
 
-🤝 Contributions & Support
+
+## 🤝 Contributions & Support
 Feel free to fork this project, suggest improvements, or submit issues!
 
 If you have any questions or need help running the notebook, reach out or open an issue.
